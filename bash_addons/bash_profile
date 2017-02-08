@@ -1,0 +1,6 @@
+# .bash_profile
+
+# Get the aliases and functions. Note we can use '.' as a shortcut to 'source'
+if [[ -f ~/.bashrc ]]; then
+    . ~/.bashrc
+fi
